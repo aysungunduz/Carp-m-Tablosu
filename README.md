@@ -1,1 +1,1 @@
-# Carp-m-Tablosu
+# Carpım-Tablosu
